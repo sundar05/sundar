@@ -430,7 +430,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Scroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sundar.image.Scroll;
+				PRODUCT_BUNDLE_IDENTIFIER = com.encore.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -441,7 +441,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Scroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sundar.image.Scroll;
+				PRODUCT_BUNDLE_IDENTIFIER = com.encore.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -452,7 +452,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = ScrollTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sundar.image.ScrollTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.encore.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Scroll.app/Scroll";
 			};
@@ -464,7 +464,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = ScrollTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sundar.image.ScrollTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.encore.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Scroll.app/Scroll";
 			};
@@ -475,7 +475,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = ScrollUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sundar.image.ScrollUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.encore.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Scroll;
 				USES_XCTRUNNER = YES;
@@ -487,7 +487,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = ScrollUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sundar.image.ScrollUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.encore.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Scroll;
 				USES_XCTRUNNER = YES;
